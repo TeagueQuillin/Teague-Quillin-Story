@@ -12,8 +12,8 @@ Born and raised in San Ramon, California, USA (45min outside San Francisco)
 
 Lived in San Diego, California from 2016 to 2026
 
-<img src="sf-photo.png" alt="sf-photo.png" width="45%">
-<img src="sd-photo.png" alt="sd-photo.png" width="45%">
+<img src="sf-photo.png" alt="sf-photo.png" width="40%">
+<img src="sd-photo.png" alt="sd-photo.png" width="40%">
 
 ## My interests
 
