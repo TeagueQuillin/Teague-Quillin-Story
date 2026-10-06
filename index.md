@@ -32,56 +32,6 @@ Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 | 2024-2026 | Senior Accountant of SEC Reporting and Equity | NeoGenomics Laboratories |
 | 2026-Present | BIPM Masters student | HWR Berlin |
 
-import folium
-from pyproj import Geod
 
-geod = Geod(ellps="WGS84")
 
-# Define stops
-stops = [
-    {"city": "San Ramon, CA", "lat": 37.7800, "lon": -121.9781, "popup": "Childhood"},
-    {"city": "San Diego, CA", "lat": 32.7157, "lon": -117.1611, "popup": "Bachelors San Diego State University"},
-    {"city": "Berlin, Germany", "lat": 52.5200, "lon": 13.4050, "popup": "Masters HWR Berlin"}
-]
 
-# Create map
-m = folium.Map(
-    location=[40, 0],
-    zoom_start=2,
-    #tiles="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
-    #tiles="OpenStreetMap",
-    #attr="© OpenStreetMap contributors © CARTO"
-    tiles="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
-    attr="Tiles &copy; Esri --- Esri, HERE, Garmin, and contributors"
-)
-
-# Add markers
-for stop in stops:
-    folium.Marker(
-        [stop["lat"], stop["lon"]],
-        popup=stop["popup"],
-        tooltip=stop["city"],
-        icon=folium.Icon(color="blue", icon="info-sign")
-    ).add_to(m)
-
-# Function to compute many intermediate great-circle points
-def great_circle_points(lat1, lon1, lat2, lon2, npts=100):
-    points = geod.npts(lon1, lat1, lon2, lat2, npts)
-    coords = [(lat1, lon1)] + [(lat, lon) for lon, lat in points] + [(lat2, lon2)]
-    return coords
-
-# Draw arcs between consecutive stops
-for i in range(len(stops) - 1):
-    start, end = stops[i], stops[i + 1]
-    arc = great_circle_points(start["lat"], start["lon"], end["lat"], end["lon"], npts=60)
-    folium.PolyLine(
-        arc,
-        color="darkblue",
-        weight=3,
-        opacity=0.7
-    ).add_to(m)
-
-# Save and open
-#m.save("academic_journey_map.html")
-#import webbrowser; webbrowser.open("academic_journey_map.html")
-m
