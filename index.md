@@ -18,7 +18,7 @@ Lived in San Diego, California from 2016 to 2026
 
 Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 
-<img src="nature-photo.jpeg" alt="nature-photo.jpeg" width="40%"> <img src="bball-photo.jpg" alt="bball-photo.jpg" width="40%">
+<img src="nature-photo.jpeg" alt="nature-photo.jpeg" width="40%"> <img src="bball-photo.JPG" alt="bball-photo.JPG" width="40%">
 <img src="comedy-photo.jpeg" alt="comedy-photo.jpeg" width="40%"> <img src="travel-photo.jpg" alt="travel-photo.jpg" width="40%">
 <img src="drawing1-photo.jpeg" alt="drawing1-photo.jpeg" width="40%"> <img src="drawing2-photo.jpeg" alt="drawing2-photo.jpg" width="40%">
 
