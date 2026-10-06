@@ -9,14 +9,14 @@ https://www.linkedin.com/in/teaguequillin/
 ## Where I'm from
 
 Born and raised in San Ramon, California, USA (45min outside San Francisco)
+
 Lived in San Diego, California from 2016 to 2026
+
+[A photo of San Francisco](sf-photo.jpeg) [A photo of San Diego\(sd-photo.jpeg)
 
 ## My interests
 
-Nature
-Basketball
-Travel
-Comedy
+Nature, Basketball, Travel, Comedy
 
 ## Academic and Career Journey
 | Period | Role | Organization |
