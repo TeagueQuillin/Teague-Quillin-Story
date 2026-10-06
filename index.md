@@ -18,9 +18,11 @@ Lived in San Diego, California from 2016 to 2026
 
 Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="nature-photo2.jpeg" alt="nature-photo2.jpeg" width="40%"> <img src="bball-photo1.JPG" alt="bball-photo1.JPG" width="40%">
 <img src="comedy-photo1.jpeg" alt="comedy-photo1.jpeg" width="40%"> <img src="travel-photo2.jpg" alt="travel-photo2.jpg" width="40%">
 <img src="drawing1-photo2.jpeg" alt="drawing1-photo2.jpeg" width="30%"> <img src="drawing2-photo2.jpeg" alt="drawing2-photo2.jpg" width="30%"> <img src="drawing3-photo1.jpeg" alt="drawing3-photo1.jpg" width="30%">
+</div>
 
 ## Academic and Career Journey
 | Period | Role | Organization |
