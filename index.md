@@ -38,7 +38,7 @@ Lived in San Diego, California from 2016 to 2026
 Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<img src="nature-photo2.jpeg" alt="nature-photo2.jpeg" width="38%" style="border-radius: 25px;"> <img src="bball-photo1.JPG" alt="bball-photo1.JPG" width="38%" style="border-radius: 25px;">
+<img src="nature-photo2.jpeg" alt="nature-photo2.jpeg" width="42%" style="border-radius: 25px;"> <img src="bball-photo1.JPG" alt="bball-photo1.JPG" width="42%" style="border-radius: 25px;">
 <img src="comedy-photo1.jpeg" alt="comedy-photo1.jpeg" width="38%" style="border-radius: 25px;"> <img src="travel-photo2.jpg" alt="travel-photo2.jpg" width="38%" style="border-radius: 25px;">
 <img src="drawing1-photo2.jpeg" alt="drawing1-photo2.jpeg" width="28%" style="border-radius: 25px;"> <img src="drawing2-photo2.jpeg" alt="drawing2-photo2.jpg" width="28%" style="border-radius: 25px;"> <img src="drawing3-photo1.jpeg" alt="drawing3-photo1.jpg" width="28%" style="border-radius: 25px;">
 </div>
