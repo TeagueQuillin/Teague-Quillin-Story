@@ -28,7 +28,7 @@ Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 |--------|------|--------------|
 | 2016-20 | Bachelors Accounting Student | San Diego State University |
 | 2018-21 | Part-time Accounting Assistant | Aztec Shops llc |
-| 2020-22 | Completed Certified Public Accountant (CPA) Exams | State of California |
+| 2020-22 | Completed Certified Public Accountant Exams | State of California |
 | 2021-23 | Senior Assurance Auditor | EY |
 | 2024-26 | Senior Accountant of SEC Reporting and Equity | NeoGenomics Laboratories |
 | 2026-Now | BIPM Masters student | HWR Berlin |
