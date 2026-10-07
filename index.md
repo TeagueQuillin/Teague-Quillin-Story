@@ -12,16 +12,16 @@ Born and raised in San Ramon, California, USA (45min outside San Francisco)
 
 Lived in San Diego, California from 2016 to 2026
 
-<img src="sf-photo.png" alt="sf-photo.png" width="40%"> <img src="sd-photo.png" alt="sd-photo.png" width="40%">
+<img src="sf-photo.png" alt="sf-photo.png" width="40%" style="border-radius: 25px;"> <img src="sd-photo.png" alt="sd-photo.png" width="40%" style="border-radius: 25px;">
 
 ## My interests
 
 Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<img src="nature-photo2.jpeg" alt="nature-photo2.jpeg" width="38%"> <img src="bball-photo1.JPG" alt="bball-photo1.JPG" width="38%">
-<img src="comedy-photo1.jpeg" alt="comedy-photo1.jpeg" width="38%"> <img src="travel-photo2.jpg" alt="travel-photo2.jpg" width="38%">
-<img src="drawing1-photo2.jpeg" alt="drawing1-photo2.jpeg" width="28%"> <img src="drawing2-photo2.jpeg" alt="drawing2-photo2.jpg" width="28%"> <img src="drawing3-photo1.jpeg" alt="drawing3-photo1.jpg" width="28%">
+<img src="nature-photo2.jpeg" alt="nature-photo2.jpeg" width="38%" style="border-radius: 25px;"> <img src="bball-photo1.JPG" alt="bball-photo1.JPG" width="38%" style="border-radius: 25px;">
+<img src="comedy-photo1.jpeg" alt="comedy-photo1.jpeg" width="38%" style="border-radius: 25px;"> <img src="travel-photo2.jpg" alt="travel-photo2.jpg" width="38%" style="border-radius: 25px;">
+<img src="drawing1-photo2.jpeg" alt="drawing1-photo2.jpeg" width="28%" style="border-radius: 25px;"> <img src="drawing2-photo2.jpeg" alt="drawing2-photo2.jpg" width="28%" style="border-radius: 25px;"> <img src="drawing3-photo1.jpeg" alt="drawing3-photo1.jpg" width="28%" style="border-radius: 25px;">
 </div>
 
 ## Academic and Career Journey
