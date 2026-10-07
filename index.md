@@ -4,7 +4,7 @@ Masters student of Business Intelligence and Process Management
 
 Berlin School of Economics and Law
 
-https://www.linkedin.com/in/teaguequillin/
+[https://www.linkedin.com/in/teaguequillin/](https://www.linkedin.com/in/teaguequillin/)
 
 ## Where I'm from
 
