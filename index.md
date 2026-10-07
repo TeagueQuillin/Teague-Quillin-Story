@@ -32,6 +32,7 @@ Nature, Basketball, Comedy, Travel, Drawing weird pictures of my friend's dogs
 | 2024-2026 | Senior Accountant of SEC Reporting and Equity | NeoGenomics Laboratories |
 | 2026-Present | BIPM Masters student | HWR Berlin |
 
+<iframe src="academic_journey_map.html" width="100%" height="500" style="border:none;"></iframe>iframe>
 
 
 
