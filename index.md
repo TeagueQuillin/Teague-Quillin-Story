@@ -1,3 +1,14 @@
+<style>
+body {
+  text-align: center;
+}
+table {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 # Teague Quillin
 
 Masters student of Business Intelligence and Process Management
