@@ -1,6 +1,12 @@
 <style>
 body {
   text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+  background-color: #f0f5ec;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 table {
   text-align: left;
